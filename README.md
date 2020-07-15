@@ -26,4 +26,6 @@ Hello v2!
 
 ### vfailed
 
-The version can not run due to syntax error so use it if you want to verify case of the CrashLoopBackOff.
+:warning: The version can not run due to syntax error so use it if you want to verify case of the CrashLoopBackOff.
+
+See: https://github.com/hiiiide/docker-nginx4demo/blob/master/vfailed/default.conf#L7
